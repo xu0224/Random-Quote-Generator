@@ -22,6 +22,20 @@ var quotes = [
         source:'Frida Kahlo',
         citation:'Brainyquote',
         year:'1970'
+    },
+    
+    {
+        quote: 'I am m selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you cannot handle me at my worst, then you sure as hell do not deserve me at my best.',
+        source:'Marilyn Monroe',
+        citation:'Goodreads',
+        year:'1980'
+    },
+    
+    {
+        quote: 'You know you are in love when you cannot fall asleep because reality is finally better than your dreams',
+        source:'Dr.Seuss',
+        citation:'Goodreads',
+        year:'1970'
     }
 ];
 
